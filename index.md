@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-This is a test. 
+I am a novice scale model builder and this website is to document my builds any anything else pertaining to models.
