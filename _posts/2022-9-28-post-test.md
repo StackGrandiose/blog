@@ -5,9 +5,9 @@ date: 2022-9-28
 categories: Aircraft
 ---
 #custom permalink
-/:tamiya-corsair/
+permalink: /:tamiya-corsair/
 
-<img src="/assets/DSCN3010scale.JPG">
+![Finished Airplane](/assets/DSCN3010scale.JPG)
 <h2>Paint</h2>
 - Mr.Surfacer 1000
 - Mr.Hobby Premium Top Coat: Gloss
