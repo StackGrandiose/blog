@@ -5,8 +5,6 @@ date: 2022-9-28
 categories: Aircraft
 ---
 
-permalink: /:title/
-
 ![Finished Airplane](/assets/DSCN3010scale.JPG)
 <h2>Paint</h2>
 - Mr.Surfacer 1000
@@ -46,3 +44,6 @@ permalink: /:title/
 <br>
 
 <p>This kit was purchased for only around 20 dollars, which was a very good deal. Opening up the box there are 3 sprues (2 plastic & 1 clear), instructions, and a decal sheet. As most airplane kits do, the first step of assembly is the cockpit.<p>
+    
+<h3>Cockpit</h3>
+Like most airplane models, the first assembly step is the cockpit. 
