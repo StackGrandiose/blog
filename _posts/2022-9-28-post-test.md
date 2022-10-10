@@ -4,8 +4,8 @@ title: "Vought F4U-1D Corsair: Tamiya 1/72"
 date: 2022-9-28
 categories: Aircraft
 ---
-#custom permalink
-permalink: /:tamiya-corsair/
+
+permalink: /:title/
 
 ![Finished Airplane](/assets/DSCN3010scale.JPG)
 <h2>Paint</h2>
