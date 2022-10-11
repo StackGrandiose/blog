@@ -1,1 +1,4 @@
 theme: minima 
+show_excerpts: true
+permalink: /:categories/:year-:month-:day-:title:output_ext
+
