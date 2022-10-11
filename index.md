@@ -1,4 +1,3 @@
-<!-- index.markdown -->
 ---
 title: 'Welcome to the Blog'
 layout: home
