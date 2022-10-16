@@ -6,12 +6,13 @@ categories: Aircraft
 ---
 
 <img src="https://stackgrandiose.github.io/blog/assets/images/DSCN3010scale.JPG" >
+![test](https://stackgrandiose.github.io/blog/assets/images/DSCN3010scale.JPG)
 
 <p>This is my first blog post on this blog, and it is about the Vought F4U-1D Corsair by Tamiya. This was built a few weeks ago as of the time of writing. it was overall a very well made kit with the parts fitting together really nicely. 
 <h2>Paint</h2>
-- Mr.Surfacer 1000
-- Mr.Hobby Premium Top Coat: Gloss
-- Tamiya
+- Mr.Surfacer 1000 <br>
+- Mr.Hobby Premium Top Coat: Gloss <br>
+- Tamiya <br>
     - Royal Blue: X-3 <br>
     - Green: X-5 <br>
     - Semi Gloss Black: X-18 <br>
