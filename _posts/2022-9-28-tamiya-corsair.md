@@ -45,7 +45,7 @@ categories: Aircraft
 
 <br>
 
-<p>This kit was purchased for only around 20 dollars, which was a very good deal. Opening up the box there are 3 sprues (2 plastic & 1 clear), instructions, and a decal sheet. The clear parts were clear and parts were molded with pretty good detail. According to [scalemates](https://www.scalemates.com/kits/tamiya-60752-vought-f4u-1d-corsair--103249#), the kit was released in 2000.</p>
+<p>This kit was purchased for only around 20 dollars, which was a very good deal. Opening up the box there are 3 sprues (2 plastic & 1 clear), instructions, and a decal sheet. The clear parts were clear and parts were molded with pretty good detail. According to scalemates, the kit was released in 2000.</p>
 
 <img src="https://stackgrandiose.github.io/blog/assets/images/sprue-detail-scale.jpg" >
     
