@@ -47,8 +47,12 @@ categories: Aircraft
 
 <p>This kit was purchased for only around 20 dollars, which was a very good deal. Opening up the box there are 3 sprues (2 plastic & 1 clear), instructions, and a decal sheet. The clear parts were clear and parts were molded with pretty good detail. According to scalemates, the kit was released in 2000.</p>
 
-<img src="https://stackgrandiose.github.io/blogassets/images/sprue-detail-scale.jpg" >
+<img src="https://stackgrandiose.github.io/blog/assets/images/sprue-detail-scale.jpg" >
 
     
 <h3>Cockpit</h3>
-Like most airplane models, the first assembly step is the cockpit. 
+Like most airplane models, the first assembly step is the cockpit. The design of putting the cockpit together was very nice. The center stick was fragile and broke off. This was carefully glued back on. After all the parts were painted with Model Masters FS34087 with the airbrush, the other parts were painted on with a paintbrush with Tamiya Semi-Gloss Black. The sides of the cockpit was painted similarly.
+
+<img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-1-scale.jpg" > 
+<img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-2-scale.jpg" >
+<img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-side-scale.jpg" >
