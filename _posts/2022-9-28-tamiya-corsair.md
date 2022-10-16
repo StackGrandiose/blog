@@ -51,8 +51,7 @@ categories: Aircraft
 
     
 <h3>Cockpit</h3>
-Like most airplane models, the first assembly step is the cockpit. The design of putting the cockpit together was very nice. The center stick was fragile and broke off. This was carefully glued back on. After all the parts were painted with Model Masters FS34087 with the airbrush, the other parts were painted on with a paintbrush with Tamiya Semi-Gloss Black. The sides of the cockpit was painted similarly.
+Like most airplane models, the first assembly step is the cockpit. The design of putting the cockpit together was very nice. The center stick was fragile and broke off. This was carefully glued back on. After all the parts were assembled, everything was painted with Model Masters FS34087 with the airbrush. The rest of the details were painted  on with a paintbrush with Tamiya Semi-Gloss Black + Red + Yellow. The sides of the cockpit was painted similarly.
 
-<img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-1-scale.jpg" > 
-<img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-2-scale.jpg" >
+<img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-1-scale.jpg" >  <img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-2-scale.jpg" >
 <img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-side-scale.jpg" >
