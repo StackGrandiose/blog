@@ -5,8 +5,9 @@ date: 2022-9-28
 categories: Aircraft
 ---
 
-![finished airplane](/assets/images/DSCN3010scale.JPG)
-<p>This is my first  post on this blog, and it is about the Vought F4U-1D Corsair by Tamiya. This was built a few weeks ago as of the time of writing. it was overall a very well made kit with the parts fitting together really nicely. 
+<img src="https://stackgrandiose.github.io/blog/assets/images/DSCN3010scale.JPG" >
+
+<p>This is my first post on this blog, and it is about the Vought F4U-1D Corsair by Tamiya. This was built a few weeks ago as of the time of writing. it was overall a very well made kit with the parts fitting together really nicely. 
 <h2>Paint</h2>
 - Mr.Surfacer 1000 <br>
 - Mr.Hobby Premium Top Coat: Gloss <br>
@@ -46,7 +47,7 @@ categories: Aircraft
 
 <p>This kit was purchased for only around 20 dollars, which was a very good deal. Opening up the box there are 3 sprues (2 plastic & 1 clear), instructions, and a decal sheet. The clear parts were clear and parts were molded with pretty good detail. According to scalemates, the kit was released in 2000.</p>
 
-![sprue detail](/assets/images/sprue-detail-scale.jpg)
+<img src="https://stackgrandiose.github.io/blogassets/images/sprue-detail-scale.jpg" >
 
     
 <h3>Cockpit</h3>
