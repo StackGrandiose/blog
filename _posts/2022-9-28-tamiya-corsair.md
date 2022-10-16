@@ -5,7 +5,7 @@ date: 2022-9-28
 categories: Aircraft
 ---
 
-![My Finished Airplane](/assets/images/DSCN3010scale.JPG }})
+<img src="https://stackgrandiose.github.io/blog/assets/images/DSCN3010scale.JPG" >
 
 <p>This is my first blog post on this blog, and it is about the Vought F4U-1D Corsair by Tamiya. This was built a few weeks ago as of the time of writing. it was overall a very well made kit with the parts fitting together really nicely. 
 <h2>Paint</h2>
@@ -47,7 +47,7 @@ categories: Aircraft
 
 <p>This kit was purchased for only around 20 dollars, which was a very good deal. Opening up the box there are 3 sprues (2 plastic & 1 clear), instructions, and a decal sheet. The clear parts were clear and parts were molded with pretty good detail. According to [scalemates](https://www.scalemates.com/kits/tamiya-60752-vought-f4u-1d-corsair--103249#), the kit was released in 2000.</p>
 
-![Example of Detail](/assets/images/sprue-detail-scale.jpg }})
+<img src="https://stackgrandiose.github.io/blog/assets/images/sprue-detail-scale.jpg" >
     
 <h3>Cockpit</h3>
 Like most airplane models, the first assembly step is the cockpit. 
