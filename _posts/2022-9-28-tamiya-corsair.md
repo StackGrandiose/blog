@@ -57,10 +57,17 @@ categories: Aircraft
 <img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-2-scale.jpg" >
 <img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-side-scale.jpg" >
 
-<h3>Body</h3>
-The assembly of the fuselage came together very nicely with all the parts fitted almost perfectly. holes were drilled with a small drill bit for the rockets to be glued in later. The wings were connected with the fuselage which was very easy. Once finished, it becomes very hard to see where any parts meet to be glued due to the design being very descrete about it. The whole body was painted with Mr.Surfacer 1000 + some regular lacquer. It dried pretty fast, but this is most likely due to Mr.Color Leveling Thinner not being used which has a retarder that slows down drying time. I had never used this surfacer before but the result was really amazing. It did a very good job and served as a very good base for the full coat. To protect the painted wheel wells from the surfacer and future layers pieces of foam were cut and placed in.
+<h3>Body Assembly</h3>
+The assembly of the fuselage came together very nicely with all the parts fitted almost perfectly. holes were drilled with a small drill bit for the rockets to be glued in later. The wings were connected with the fuselage which was very easy. Once finished, it becomes very hard to see where any parts meet to be glued due to the design being very descrete about it. 
+
+<h3>Painting</h3>
+The whole body was painted with Mr.Surfacer 1000 + some regular lacquer. It dried pretty fast, but this is most likely due to Mr.Color Leveling Thinner not being used which has a retarder that slows down drying time. I had never used this surfacer before but the result was really amazing. It did a very good job and served as a very good base for the full coat. To protect the painted wheel wells from the surfacer and future layers pieces of foam were cut and placed in.
+
+<br>
+
+The instructions called for AS-8 Navy Blue (US Navy) but I found X-3 Royal Blue worked just fine. I don't believe I thinned the paint enough to be passed through the airbrush efficiently. This lead to a splattered look which was coarse.
 
 <h3>Extra Notes</h3>
 
 <h3>Final Thoughts</h3>
-If I had to redo this kit, I think the main thing that I would do differently is the body color. I believe the paint was not thinned down properly enough and if thinned would result in a lot smoother of an appearance. 
+If I had to redo this kit, I think the main thing that I would do differently is the body color. I believe the paint was not thinned down properly enough and if thinned would result in a lot smoother of an appearance. I would have also airbrushed the yellow on the nose instead of painting it with a brush.
