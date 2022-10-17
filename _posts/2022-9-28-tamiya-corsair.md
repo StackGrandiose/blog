@@ -64,6 +64,7 @@ The assembly of the fuselage came together very nicely with all the parts fitted
 The whole body was painted with Mr.Surfacer 1000 + some regular lacquer. It dried pretty fast, but this is most likely due to Mr.Color Leveling Thinner not being used which has a retarder that slows down drying time. I had never used this surfacer before but the result was really amazing. It did a very good job and served as a very good base for the full coat. To protect the painted wheel wells from the surfacer and future layers pieces of foam were cut and placed in.
 
 <br>
+<img src="https://stackgrandiose.github.io/blog/assets/images/surfacer-scale.jpg" > 
 
 The instructions called for AS-8 Navy Blue (US Navy) but I found X-3 Royal Blue worked just fine. I don't believe I thinned the paint enough to be passed through the airbrush efficiently. This lead to a splattered look which was coarse.
 
