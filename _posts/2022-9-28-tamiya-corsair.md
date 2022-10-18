@@ -63,12 +63,20 @@ The assembly of the fuselage came together very nicely with all the parts fitted
 <h3>Painting</h3>
 The whole body was painted with Mr.Surfacer 1000 + some regular lacquer. It dried pretty fast, but this is most likely due to Mr.Color Leveling Thinner not being used which has a retarder that slows down drying time. I had never used this surfacer before but the result was really amazing. It did a very good job and served as a very good base for the full coat. To protect the painted wheel wells from the surfacer and future layers pieces of foam were cut and placed in.
 
-<br>
 <img src="https://stackgrandiose.github.io/blog/assets/images/surfacer-scale.jpg" > 
 
-The instructions called for AS-8 Navy Blue (US Navy) but I found X-3 Royal Blue worked just fine. I don't believe I thinned the paint enough to be passed through the airbrush efficiently. This lead to a splattered look which was coarse.
+The instructions called for AS-8 Navy Blue (US Navy) but I found X-3 Royal Blue worked just fine. I don't believe I thinned the paint enough to be passed through the airbrush efficiently. This lead to a splattered look which was coarse. After this, decals were applied. These decals were quite thick which I have heard to not look very realistic and stickerlike, but I found the decals to be enjoyable to work with. They didn't immediately stick to the model and wouldn't let go. It was easier to reposition them.
 
-<h3>Extra Notes</h3>
+<img src="https://stackgrandiose.github.io/blog/assets/images/body-paint-scale.jpg" > 
+<img src="https://stackgrandiose.github.io/blog/assets/images/decals-scale.jpg" > 
+
+<h3>Finishing</h3>
+Top Coat: Gloss was applied through a spray can. This somewhat aided in making the coarse paint job more smooth. Next time I think I would buy some Top Coat Matt or Satin for a more flat finish.
+<img src="https://stackgrandiose.github.io/blog/assets/images/top-coat-scale.jpg" >
+
+I wanted to use panel wash to give more depth to the model, but the tamiya black wash I thought would look too dark on this navy blue plane. So I mixed some Model Masters Light Ghost Gray and paint thinner to create some sort of wash. It didn't flow very well, but in the end it looked fine. 
 
 <h3>Final Thoughts</h3>
 If I had to redo this kit, I think the main thing that I would do differently is the body color. I believe the paint was not thinned down properly enough and if thinned would result in a lot smoother of an appearance. I would have also airbrushed the yellow on the nose instead of painting it with a brush.
+
+
