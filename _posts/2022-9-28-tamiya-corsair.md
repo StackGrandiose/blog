@@ -57,9 +57,12 @@ categories: Aircraft
 <img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-2-scale.jpg" >
 <img src="https://stackgrandiose.github.io/blog/assets/images/cockpit-side-scale.jpg" >
 
+<br>
+
 <h3>Body Assembly</h3>
 The assembly of the fuselage came together very nicely with all the parts fitted almost perfectly. holes were drilled with a small drill bit for the rockets to be glued in later. The wings were connected with the fuselage which was very easy. Once finished, it becomes very hard to see where any parts meet to be glued due to the design being very descrete about it. 
 
+<br>
 <h3>Painting</h3>
 The whole body was painted with Mr.Surfacer 1000 + some regular lacquer. It dried pretty fast, but this is most likely due to Mr.Color Leveling Thinner not being used which has a retarder that slows down drying time. I had never used this surfacer before but the result was really amazing. It did a very good job and served as a very good base for the full coat. To protect the painted wheel wells from the surfacer and future layers pieces of foam were cut and placed in.
 
@@ -69,12 +72,15 @@ The instructions called for AS-8 Navy Blue (US Navy) but I found X-3 Royal Blue 
 
 <img src="https://stackgrandiose.github.io/blog/assets/images/body-paint-scale.jpg" > 
 <img src="https://stackgrandiose.github.io/blog/assets/images/decals-scale.jpg" > 
+<br>
 
 <h3>Finishing</h3>
 Top Coat: Gloss was applied through a spray can. This somewhat aided in making the coarse paint job more smooth. Next time I think I would buy some Top Coat Matt or Satin for a more flat finish.
 <img src="https://stackgrandiose.github.io/blog/assets/images/top-coat-scale.jpg" >
 
+<br>
 I wanted to use panel wash to give more depth to the model, but the tamiya black wash I thought would look too dark on this navy blue plane. So I mixed some Model Masters Light Ghost Gray and paint thinner to create some sort of wash. It didn't flow very well, but in the end it looked fine. 
+<br>
 
 <h3>Final Thoughts</h3>
 If I had to redo this kit, I think the main thing that I would do differently is the body color. I believe the paint was not thinned down properly enough and if thinned would result in a lot smoother of an appearance. I would have also airbrushed the yellow on the nose instead of painting it with a brush.
