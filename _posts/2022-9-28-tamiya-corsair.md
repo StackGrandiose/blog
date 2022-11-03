@@ -86,3 +86,5 @@ I wanted to use panel wash to give more depth to the model, but the tamiya black
 If I had to redo this kit, I think the main thing that I would do differently is the body color. I believe the paint was not thinned down properly enough and if thinned would result in a lot smoother of an appearance. I would have also airbrushed the yellow on the nose instead of painting it with a brush.
 
 
+I hope you enjoyed reading through this pretty mundane blog post. Hopefully as time goes on the quality of blog posts will increase and eventually be worthwhile to read, but that may take some time. I am also trying to learn how to customize blogs through jekyll on github pages, but it can be pretty complicated. 
+
