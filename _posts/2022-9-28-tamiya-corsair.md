@@ -49,6 +49,7 @@ categories: Aircraft
 
 <img src="https://stackgrandiose.github.io/blog/assets/images/tamiya-corsair-172/sprue-detail-scale.jpg" >
 
+<br>
     
 <h3>Cockpit</h3>
 <p>Like most airplane models, the first assembly step is the cockpit. The design of putting the cockpit together was very nice. The center stick was fragile and broke off. This was carefully glued back on. After all the parts were assembled, everything was painted with Model Masters FS34087 with the airbrush. The rest of the details were painted on with a paintbrush with Tamiya Semi-Gloss Black + Red + Yellow. The sides of the cockpit was painted similarly.</p>
@@ -67,6 +68,7 @@ The assembly of the fuselage came together very nicely with all the parts fitted
 The whole body was painted with Mr.Surfacer 1000 + some regular lacquer. It dried pretty fast, but this is most likely due to Mr.Color Leveling Thinner not being used which has a retarder that slows down drying time. I had never used this surfacer before but the result was really amazing. It did a very good job and served as a very good base for the full coat. To protect the painted wheel wells from the surfacer and future layers pieces of foam were cut and placed in.
 
 <img src="https://stackgrandiose.github.io/blog/assets/images/tamiya-corsair-172/surfacer-scale.jpg" > 
+<br>
 
 The instructions called for AS-8 Navy Blue (US Navy) but I found X-3 Royal Blue worked just fine. I don't believe I thinned the paint enough to be passed through the airbrush efficiently. This lead to a splattered look which was coarse. After this, decals were applied. These decals were quite thick which I have heard to not look very realistic and stickerlike, but I found the decals to be enjoyable to work with. They didn't immediately stick to the model and wouldn't let go. It was easier to reposition them.
 
